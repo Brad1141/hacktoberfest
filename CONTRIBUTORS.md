@@ -395,10 +395,15 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
-#### Name: [Branden] (https://github.com/redbeardaz)
+#### Name: Brad LaMontagne
+ - Place: Atlanta, Georgia
+ - Bio: Web Developer Intern for [XeoSource Software Solutions](http://xeosource.com)
+ - GitHub: [Brad1141](https://github.com/Brad1141)
+
+#### Name: [Branden](https://github.com/redbeardaz)
 - Place: Phoenix, AZ
 - Bio: Customer Success Manager
-- GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
+- GitHub: [RedBeardAZ](https://github.com/redbeardaz)
 
 #### Name: [Brandon Fadairo](https://github.com/BFadairo)
 - Place: Columbus, Ohio
